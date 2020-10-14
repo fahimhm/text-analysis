@@ -8,4 +8,10 @@ Installation
 
 ### Download the Project
 * Clone or download this repo to your computer.
-* Get into the folder using 
+* Get into the folder using 'cd text-analysis'.
+* Switch into the '2 - Notebook' directory using 'cd 2\ -\ Notebook/'.
+* Finally run the jupyter notebook.
+
+### Install the requirements
+* Install the requirements using 'pip install -r requirements.txt'.
+    * Make sure you use Python 3.
