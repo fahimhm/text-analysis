@@ -1,7 +1,7 @@
 Text Analysis
 ------------------
 
-Many public figures have a chance to give a speech at some event. It may graduation or conference or anything else. We know some public figures have a strong style that amde them stand out. In this project, I tried to figure out how Steve Jobs stands out by his speech, compare to other public figure's speeches.
+Many public figures have a chance to give a speech at some event. It may graduation or conference or anything else. We know some public figures have a strong style that made them stand out. In this project, I tried to figure out how Steve Jobs stands out by his speech, compare to other public figure's speeches.
 
 Installation
 ------------------
