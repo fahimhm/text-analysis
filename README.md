@@ -1,7 +1,7 @@
 Text Analysis
 ------------------
 
-Many publick figure have a chance to give a speech in some event. It may a graduation or converence or anything else. We know some public figure have a strong style that made them unique. In this project, I tried to figure out how Donald Trump become unique based on his speech, compare to others public figure's speech.
+Many public figures have a chance to give a speech at some event. It may graduation or conference or anything else. We know some public figures have a strong style that amde them stand out. In this project, I tried to figure out how Steve Jobs stands out by his speech, compare to other public figure's speeches.
 
 Installation
 ------------------
